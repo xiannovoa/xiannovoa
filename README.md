@@ -14,14 +14,14 @@ Computer vision project focused on poultry weight estimation and disease detecti
 ### [Cyclout](https://github.com/xiannovoa/cyclout)
 Web application helping road cyclists find low-traffic routes out of cities, combining OpenStreetMap with official traffic data.
 
-🏅 **3rd place — Hackathon ETSE (2026)**
+🏅 **3rd place - Hackathon ETSE (2026)**
 
 ## 🛠️ Technologies I've worked with
 
-**Languages:** Python, SQL
-**Data Science & Machine Learning:** PyTorch, Scikit-learn, Pandas
-**Computer Vision:** OpenCV
-**Development:** Git, Docker, Jupyter
+- **Languages:** Python, SQL
+- **Data Science & Machine Learning:** PyTorch, Scikit-learn, Pandas
+- **Computer Vision:** OpenCV
+- **Development:** Git, Docker, Jupyter
 
 ## 📫 Connect
 
